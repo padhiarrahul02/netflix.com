@@ -1,0 +1,207 @@
+body{
+    background-color: black;
+}
+
+img{
+    height:95px;
+    width: 220px;
+    margin-top:-20px;
+    margin-left:120px;
+    
+}
+img:hover{
+    
+    cursor: pointer;
+}
+
+select{
+    height: 30px;
+    width: 135px;
+    margin-top:20px;
+    margin-left:550px;
+    background-color: rgb(54, 54, 54);
+    color: white;
+    border-radius: 5px;
+    font-size: large;
+    position: absolute;
+
+}
+select:hover{
+    cursor:pointer;
+
+}
+h2{
+    color: white;
+}
+#header{
+    background-image: url(https://wallpapers.com/images/hd/netflix-background-gs7hjuwvv2g0e9fj.jpg);
+    background-size: cover;
+    padding-bottom: 150px;
+    overflow: auto;
+    background-repeat: no-repeat;
+}
+
+#button{
+    height: 30px;
+    width: 70px;
+    margin-top:20px;
+    margin-left:710px;
+    font-size:medium;
+    background-color: red;
+    border-radius:5px;
+    color: white;
+    position: absolute;
+}
+#button:hover{
+    cursor:pointer;
+}
+#heading1{
+    font-size:60px;
+    color: white;
+    margin-top:140px;
+}
+
+p{
+    margin: 0;
+}
+
+#heading2{
+    font-size:60px;
+    color: white;
+    /* margin-top:-5px; */
+    
+}
+#heading3{
+    color: white;
+    font-size: 25px;
+    margin: 10px;
+}
+#heading4{
+    color: white;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+#button2{
+    width: 30%;
+    height: 42px;
+    background-color:rgb(122, 112, 112);
+    color: white;
+    font-size: 18px; 
+    
+}
+
+#button2::placeholder{
+    color: white;
+}
+
+#button2:hover{
+    cursor: pointer;
+}
+#button3{
+    height:45px;
+    width:160px;
+    background-color: rgb(248, 20, 20);
+    color: white;
+    font-size:15px;
+}
+#button3:hover{
+    cursor:pointer;
+}
+#para{
+    font-size: x-large;
+    color:white;
+    margin-left:5%;
+}
+#trending-text{
+    padding:30px;
+    margin-left: 7%;
+    font-size:30px ;
+}
+.select1{
+    padding:10px;
+     }
+    .select2{
+    padding: 20px;
+    }
+.card1{
+    height: 270px;
+    margin: 8px;
+    padding-left: 70px;
+    padding-right: 20px;
+    border-radius: 15%;
+    }
+  .only-text{
+    
+    margin-left: 7%;
+    font-size:30px ;
+  }
+  .container{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    border-radius: 15px;
+  }
+  .box1{
+    background-color:#201527;
+    height: 270px;
+    width: 190px;
+    border-radius: 15px;
+    text-align: center;
+    padding:12PX;
+    
+}
+.paragraph{
+    color: rgb(192, 184, 184);
+}
+.onlytext{
+    margin-left: 7%;
+    font-size:25px ;
+}
+.all-button{
+    
+    color: rgb(189, 177, 177);
+    text-align: left;
+    height: 50px;
+    background-color:#4d4848;
+    margin: 10px;
+    width: 1000px;
+    padding: 10px;
+    font-size:30px;
+}
+.input-email{
+    height:44px;
+    width: 300px;
+    color: rgb(182, 177, 177);
+    font-size: 20px;
+    background-color: rgb(95, 86, 86);
+    
+    
+}
+.input-email::placeholder{
+    color: rgb(243, 225, 225);
+}
+.last-page{
+    
+    display: flex;
+    justify-content:center;
+    
+    
+}
+.heading6{
+    color:white;
+    font-size: 14px;
+    margin: 11px;
+    padding: 18px;
+    color: rgb(153, 147, 147);
+
+}
+
+
+
+    
+
+
+
+
+
+
